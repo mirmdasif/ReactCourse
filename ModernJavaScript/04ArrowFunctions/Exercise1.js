@@ -1,5 +1,5 @@
 'use strict';
 
-let sayHello = () => 'Hello World';
+let sayHello = () => 'Hello World!';
 
 console.log(sayHello());
